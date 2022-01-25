@@ -1,0 +1,12 @@
+* {
+    margin: 0em;
+}
+.header-container {
+    display:flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+}
+.link-container {
+    display:flex
+}
